@@ -14,11 +14,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    // Do any additional setup after loading the view.
 }
-
-
-
 
 - (IBAction)begainAC:(id)sender {
     
@@ -53,9 +49,6 @@
 
 - (IBAction)copytoSelf:(id)sender {
     
-    
-    
-    
 }
 
 
@@ -63,10 +56,7 @@
 - (IBAction)seeONweb:(id)sender {
     //http://www.bejson.com/jsonviewernew/
     
-    
 }
-
-
 
 -(NSString *) DicToJsonStr:(NSDictionary *)dic
 {
