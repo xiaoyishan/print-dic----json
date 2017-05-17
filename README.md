@@ -6,4 +6,4 @@ This project is not complete
 想了想还是把代码新的解决方案贴上免得误人
 
 使用方法：
-![image]
+![image](https://github.com/xiaoyishan/prints.dic-translate-json/blob/master/json示意图.png)
