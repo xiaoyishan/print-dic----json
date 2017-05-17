@@ -1,5 +1,4 @@
 # print-dic----json
-This project is not complete
 
 以前SB了 还专门写个Mac程序来转换 当纪念留着
  
